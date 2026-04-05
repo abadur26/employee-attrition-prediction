@@ -3,8 +3,9 @@
 A complete **Machine Learning** web application that predicts whether an employee is likely to leave the company (attrition) using **Logistic Regression**.
 
 The project includes data analysis, model training, and a clean interactive web interface built with **Flask**.
+
 ![employee_attrition_Prediction](https://github.com/user-attachments/assets/1291655f-745e-4677-b3ba-ade70a9085ea)
-*(Replace with actual screenshot of your deployed app or the form you have)*
+
 
 ## 🎯 Problem Statement
 Employee attrition is a major challenge for organizations. This project helps HR teams identify employees at high risk of leaving by analyzing factors like age, income, job role, overtime, etc.
@@ -76,8 +77,11 @@ Includes preprocessing: Label Encoding + Standard Scaling
 Key influencing factors: Overtime, Monthly Income, Age, Years at Company, etc.
 Visualizations included for better understanding of data patterns.
 
-📸 Screenshots
-(Add screenshots here later)
+![Overtime_vs_Attrition](https://github.com/user-attachments/assets/7d96bc97-73a5-4641-b3dc-79a59da5887c)
+![correlation heatmap](https://github.com/user-attachments/assets/a0f791f2-87a1-4ce5-bddd-aba4247dbc6a)
+![attrition_by_dept](https://github.com/user-attachments/assets/9e1195b8-de56-4787-9a72-442e2b5d0308)
+<img width="3003" height="2091" alt="age_distribution" src="https://github.com/user-attachments/assets/2e265fa9-b13b-41a0-8e50-97ba0713b458" />
+
 
 Web Interface
 Correlation Heatmap
@@ -95,34 +99,3 @@ Made with ❤️ for HR Analytics & Machine Learning enthusiasts.
 Star this repository if you found it helpful! ⭐
 
 
-### 5. Additional Tips for Creating the Repository
-
-1. **Create the repo on GitHub**:
-   - Go to [github.com/new](https://github.com/new)
-   - Repository name: `employee-attrition-prediction`
-   - Description: Paste the one I gave above
-   - Public (recommended for portfolio)
-   - Add a README file → **Uncheck** this (we will add our own)
-   - Create repository
-
-2. **After creating**:
-   - Upload all your files (including the improved `index.html`)
-   - Add the `README.md` file
-   - Add a nice screenshot of your web form as the repository image (optional but recommended)
-
-3. **.gitignore** (Create this file too)
-   Create a file named `.gitignore` with this content:
-     pycache/
-    venv/
-    *.pyc
-    .env
-    *.log
-
-   
-Would you like me to also write:
-- A good `.gitignore` with more details?
-- Requirements.txt content?
-- License file (MIT)?
-- Instructions to deploy on Render / Railway / Heroku?
-
-Just say **"yes"** or tell me what else you need. You're ready to push this to GitHub now! 🚀
