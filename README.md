@@ -3,8 +3,7 @@
 A complete **Machine Learning** web application that predicts whether an employee is likely to leave the company (attrition) using **Logistic Regression**.
 
 The project includes data analysis, model training, and a clean interactive web interface built with **Flask**.
-
-![Demo Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot)  
+![employee_attrition_Prediction](https://github.com/user-attachments/assets/1291655f-745e-4677-b3ba-ade70a9085ea)
 *(Replace with actual screenshot of your deployed app or the form you have)*
 
 ## 🎯 Problem Statement
